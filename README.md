@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chengjiegithub" alt="chengjiegithub" /></a> </p>
 
 - 🔭 I am first year student in SECVH🤓🤓
-
+- 😎 Feel free to call me CJ
 - 📫 How to reach me **soujie@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
