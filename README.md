@@ -1,3 +1,5 @@
+![image](https://github.com/Chengjiegithub/Chengjiegithub/assets/148413198/0f1b7118-a039-4601-ba30-a16381828d18)
+
 <h1 align="center">Hi 👋, I'm Sou Cheng Jie</h1>
 <h3 align="center">A first year SECVH student of UTM Skudai😎</h3>
 
