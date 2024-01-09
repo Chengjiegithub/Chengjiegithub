@@ -9,6 +9,7 @@
 
 - 📧 How to reach me **soujie@graduate.utm.my**
 
+
 - 👌 Can call me **CJ**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chengjiegithub&show_icons=true&theme=radical&locale=en" alt="chengjiegithub" /></p>
 
 <h3 align="left">Assignments:</h3>
+1.[ASSIGNMENT 4.pdf](https://github.com/Chengjiegithub/Chengjiegithub/files/13873265/ASSIGNMENT.4.pdf)
