@@ -19,9 +19,9 @@
 
 <h3 align="left">Assignments:</h3>
 1.ASSIGNMENT 1
--NALI 2023 Report
+<h3 align="left">-NALI 2023 Report
 (NALI 2023REPORT-S07-G08.pdf)
--NALI 2023 Interview scripts
+<h3 align="left">-NALI 2023 Interview scripts
 (NALI 2023 - Interviews Script - S07 - G08.pdf)
 
 2.ASSIGNMENT 2
