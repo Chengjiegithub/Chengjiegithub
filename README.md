@@ -18,4 +18,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chengjiegithub&show_icons=true&theme=radical&locale=en" alt="chengjiegithub" /></p>
 
 <h3 align="left">Assignments:</h3>
-1.[ASSIGNMENT 4.pdf](https://github.com/Chengjiegithub/Chengjiegithub/files/13873265/ASSIGNMENT.4.pdf)
+1.ASSIGNMENT 1
+-NALI 2023 Report
+(NALI 2023REPORT-S07-G08.pdf)
+-NALI 2023 Interview scripts
+(NALI 2023 - Interviews Script - S07 - G08.pdf)
+
+2.ASSIGNMENT 2
+-Poster of Industry Talk 
+(Overview of ICT Jobs (Group 8).jpg)
+
+3.ASSIGNMENT 3
+-Video of Visit to UTMDIGITAL
+(ASSIGNMENT 3 - G08 - S07.pdf)
