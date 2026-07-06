@@ -72,11 +72,12 @@ Here are some projects I have worked on:
 
 - **AI Timetable Tool**  
   A scheduling tool built using Flutter, Python, and Gemini AI.
-
+  https://github.com/Chengjiegithub/ai_timetable_tool
 
 - **Image Editing Application**  
   A desktop image processing application developed using Python, OpenCV, and PyQt6.
-
+  https://github.com/Chengjiegithub/ai_timetable_tool
+  
 - **Augmented Reality Application**  
   An interactive AR project developed using Unity and Vuforia.
 
@@ -85,13 +86,11 @@ Here are some projects I have worked on:
 
 - **Website Development Project**  
   A web system with role-based access control and two-factor authentication using TAC.
+  https://github.com/Chengjiegithub/ByteWave-Application-Development
 
 - **Autonomous & Manual Trash Pickup Robot**  
   A dual-mode robot using Arduino with Bluetooth manual control and autonomous mode.
-
-- **Final Year Project**  
-  Image Processing-Based Mobile Application for Real-Time Oil Palm Quality Grading using YOLOv8-Nano and TensorFlow Lite.
-
+  https://github.com/Chengjiegithub/AIROST-Intern-Project
 ---
 
 ## 🎯 Goals
