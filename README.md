@@ -76,7 +76,7 @@ Here are some projects I have worked on:
 
 - **Image Editing Application**  
   A desktop image processing application developed using Python, OpenCV, and PyQt6.
-  https://github.com/Chengjiegithub/ai_timetable_tool
+  https://github.com/Chengjiegithub/Image_Manipulation_Tools
   
 - **Augmented Reality Application**  
   An interactive AR project developed using Unity and Vuforia.
