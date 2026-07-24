@@ -77,6 +77,10 @@ Here are some projects I have worked on:
 - **Image Editing Application**  
   A desktop image processing application developed using Python, OpenCV, and PyQt6.
   https://github.com/Chengjiegithub/Image_Manipulation_Tools
+
+- **Three.js projects**  
+  A introduction page of the selected electronic, our team had chosen a drone as the product to show
+  https://github.com/Chengjiegithub/MWP-GROUP-PROJECT_PRODUCT
   
 - **Augmented Reality Application**  
   An interactive AR project developed using Unity and Vuforia.
