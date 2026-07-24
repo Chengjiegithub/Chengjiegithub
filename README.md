@@ -81,6 +81,9 @@ Here are some projects I have worked on:
 - **Three.js projects**  
   A introduction page of the selected electronic, our team had chosen a drone as the product to show
   https://github.com/Chengjiegithub/MWP-GROUP-PROJECT_PRODUCT
+
+  A interactive 3D campus tour of P19 at UTM
+  https://github.com/Chengjiegithub/MWP_MiniProject
   
 - **Augmented Reality Application**  
   An interactive AR project developed using Unity and Vuforia.
